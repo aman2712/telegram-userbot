@@ -12,5 +12,6 @@ module.exports = (client) => async (event) => {
 
   await client.sendMessage(message.chatId, {
     file: data.hits[0].largeImageURL,
+    message: q
   });
 };
