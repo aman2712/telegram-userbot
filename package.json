@@ -10,8 +10,6 @@
     "express": "^4.17.1",
     "fs-extra": "^10.0.0",
     "input": "^1.0.1",
-    "telegram": "^1.8.10",
-    "video-url-link": "^0.1.5",
-    "ytdl-core": "^4.9.1"
+    "telegram": "^1.8.10"
   }
 }
